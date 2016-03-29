@@ -12,5 +12,6 @@ setup(
     license="MIT",
     url="https://github.com/pteichman/quotefix",
     py_modules=["quotefix"],
+    use_2to3=True,
     test_suite="quotefix_test"
 )
