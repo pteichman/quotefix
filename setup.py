@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name="quotefix",
-    version="1.0.0",
+    version="1.0.1",
     author="Peter Teichman",
     author_email="peter@teichman.org",
     description="Insert matching punctuation in strings",
