@@ -12,6 +12,9 @@ Like this:
 
     >>> quotefix('She said, "I ran out (to the store')
     'She said, "I ran out (to the store)"'
+    
+    >>> quotefix("it works in reverse too)")
+    '(it works in reverse too)'
 
 You came here because you want to...
 
